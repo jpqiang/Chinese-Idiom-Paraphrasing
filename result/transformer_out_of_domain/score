@@ -1,0 +1,8 @@
+======================= beam of 5 score =====================
+tokenized bleu
+Namespace(ignore_case=False, order=4, ref='result/transformer_out_of_domain/result_beam_5/generate_beam_5.ref', sacrebleu=False, sentence_bleu=False, sys='result/transformer_out_of_domain/result_beam_5/generate_beam_5.sys')
+BLEU4 = 79.06, 89.7/83.5/78.6/74.2 (BP=0.972, ratio=0.973, syslen=142214, reflen=146224)
+ 
+sacrebleu
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.zh+version.1.5.1 = 79.58 89.9/84.8/81.1/78.0 (BP = 0.955 ratio = 0.956 hyp_len = 219187 ref_len = 229272)
+ 
