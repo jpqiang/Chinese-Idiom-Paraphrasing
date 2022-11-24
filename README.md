@@ -66,9 +66,9 @@ sh evaluate_t5_fill.sh
 
 ```
 @article{qiang2022chinese,
-    title={Chinese Idiom Paraphrasing},
-    author={Jipeng Qiang, Yang Li, Chaowei Zhang, Yun Li and YunHao Yuan, Yi Zhu, Xindong Wu},
-    journal={},
-    year={2022},
+  title={Chinese Idiom Paraphrasing},
+  author={Qiang, Jipeng and Li, Yang and Zhang, Chaowei and Li, Yun and Yuan, Yunhao and Zhu, Yi and Wu, Xindong},
+  journal={arXiv preprint arXiv:2204.07555},
+  year={2022}
 }
 ```
