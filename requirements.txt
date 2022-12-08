@@ -1,0 +1,14 @@
+torch==1.8.1+cu111
+fairseq==0.10.2
+transformers==4.8
+datasets==1.8.0
+jieba==0.42.1
+sacrebleu==1.5.1
+bert-score==0.3.11
+sentencepiece != 0.1.92
+tensorboard
+accelerate==0.10.0
+protobuf
+nltk
+py7zr
+rouge==1.0.1
