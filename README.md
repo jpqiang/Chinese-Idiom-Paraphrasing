@@ -40,7 +40,7 @@ Then run
 sh prepare.sh
 ```
 
-train LSTM, Transformer, mt5-seq2seq, mt5-fill, mt5-knowledge model
+train LSTM, Transformer, t5-pegasus, infill  model
 
 ```shell
 sh train_lstm.sh
